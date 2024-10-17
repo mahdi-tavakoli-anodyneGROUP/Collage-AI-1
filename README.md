@@ -22,11 +22,11 @@
 ## نحوه استفاده
 
 1. **نصب کتابخانه‌های مورد نیاز**:
-   
-bash
+```bash
    pip install roboflow
    pip install ultralytics
    pip install albumentations
+```
 
    
 2. **اجرای کد**:
